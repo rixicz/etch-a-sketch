@@ -1,3 +1,7 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
 form {
     display: flex;
     gap: 12px;
@@ -25,8 +29,5 @@ form {
 .row {
     display: flex;
     flex: 1;
-    border-color: black;
-    border-width: thin;
-    border-style: solid;
     flex-direction: column;
 }
