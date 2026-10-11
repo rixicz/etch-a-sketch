@@ -15,7 +15,7 @@ This project is a lightweight JavaScript application that generates a square gri
 - Input validation to prevent oversized grids
 ## Quick Start
 
-In order to see this app working, go to the following link: rixicz.github.io/etch-a-sketch
+In order to see this app working, go to the following link: [rixicz.github.io/etch-a-sketch](https://rixicz.github.io/etch-a-sketch/)
 ## Prerequisites
 
 To run this project, you only need:
