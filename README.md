@@ -53,3 +53,7 @@ Example:
 
 - The maximum supported grid size is 100 on each side.
 - The drawing effect is created by gradually reducing square opacity as you hover over it.
+
+## AI Element
+
+Apart from the README.md, the repository is AI-free.
